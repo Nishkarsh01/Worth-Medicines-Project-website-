@@ -1,0 +1,30 @@
+.ol {
+  list-style: none;
+  counter-reset: my-awesome-counter;
+}
+.li {
+  counter-increment: my-awesome-counter;
+  margin: 0.25rem;
+}
+.li::before {
+  content: counter(my-awesome-counter);
+  background: #21c87a;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  display: inline-block;
+  line-height: 2rem;
+  color: white;
+  text-align: center;
+  margin-right: 0.5rem;
+}
+.ol .ol .li::before {
+  background: #21c87a;
+}
+.ol .ol .ol .li::before {
+  background: #21c87a;
+}
+
+
+
+.jumbotron{margin-bottom: 0px;}
