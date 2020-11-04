@@ -40,6 +40,11 @@ After extracting the files,
 To collaborate, reach me on [nishdubb11@gmail.com]()
 
 
+## Further help/Reference
+
++ [MDN Web Docs](https://developer.mozilla.org/en-US/)
++ [getbootstrap.com](https://getbootstrap.com/)
++ [w3schools.com](https://www.w3schools.com/)
 
     
 
