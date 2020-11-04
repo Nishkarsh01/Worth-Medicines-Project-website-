@@ -22,6 +22,23 @@ I recently created a website for a local pharmaceutical company.This is a front-
 + [Bootstrap](https://getbootstrap.com/)
 + [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
+## Installation or Getting Started
+
+Run the following command in the terminal:
+
+	git clone https://github.com/Nishkarsh01/Worth-Medicines-Project-website-.git
+or download the zip file from github.
+    
+
+## Usage
+After extracting the files,
+
+    cd Worth-Medicines-Project-website-
+    and simply, open the index.html file
+
+## Collaborate
+To collaborate, reach me on [nishdubb11@gmail.com]()
+
 
 
     
